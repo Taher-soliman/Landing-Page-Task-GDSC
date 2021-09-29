@@ -154,6 +154,9 @@
   footer .subscribe form .sub {
     margin-top: 10px;
   }
+  footer .bg-top-mob {
+    top: -52px;
+  }
   .bg-top-mob,
   .bg-bottom-mob {
     width: 100%;
