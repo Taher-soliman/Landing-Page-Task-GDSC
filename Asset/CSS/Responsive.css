@@ -1,0 +1,157 @@
+@media (max-width: 576px) {
+  /* Bootstrab Classes */
+  .d-xs-block {
+    display: block;
+  }
+  .d-xs-none {
+    display: none;
+  }
+  .col-xs-12 {
+    width: 100%;
+  }
+  .text-xs-center {
+    text-align: center;
+  }
+  /* Header Responsive */
+  .navbar {
+    margin: 20px 0;
+  }
+  .navbar .row {
+    align-items: center;
+  }
+  .navbar .logo {
+    width: 100px;
+  }
+  .navbar .logo img {
+    width: 100%;
+  }
+  .navbar .nav-btn button {
+    padding: 3px 10px;
+    font-size: 14px;
+  }
+  /* Heading Responsive */
+  .heading h1 {
+    font-size: 25px;
+  }
+  .heading p {
+    font-size: 14px;
+  }
+  .heading .heading-btn {
+    padding: 10px 30px;
+    font-size: 14px;
+    font-weight: bold;
+  }
+  /* Layout Image Responsive */
+  .layout .container img {
+    width: 100%;
+  }
+  /* Communities Responsive */
+  .communities .row {
+    flex-wrap: wrap;
+  }
+  .communities .formed {
+    margin-bottom: 80px;
+  }
+  .communities h1 {
+    font-size: 55px;
+  }
+  .communities p {
+    font-size: 14px;
+  }
+  /* Grow Responsive */
+  .grow .row {
+    flex-wrap: wrap;
+  }
+  .grow .image {
+    text-align: center;
+  }
+  .grow .text {
+    margin-top: 80px;
+  }
+  .grow .text h1 {
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+  .grow .text p {
+    font-size: 18px;
+  }
+  .grow .bg-top-mob {
+    position: absolute;
+    left: 0;
+    top: -112px;
+  }
+  .grow .bg-bottom-mob {
+    position: absolute;
+    left: 0;
+    bottom: -52px;
+  }
+  /* Flowing Responsive */
+  .flowing .row {
+    flex-wrap: wrap;
+  }
+  .flowing .image {
+    text-align: center;
+  }
+  .flowing .text h1 {
+    font-size: 24px;
+    margin-top: 80px;
+  }
+  .flowing .text p {
+    font-size: 15px;
+  }
+  /* Users Responsive */
+  .users .row {
+    flex-wrap: wrap;
+  }
+  .users .image {
+    text-align: center;
+  }
+  .users .text h1 {
+    font-size: 25px;
+    margin-top: 80px;
+  }
+  .users .text p {
+    font-size: 15px;
+  }
+  .users .bg-top-mob {
+    position: absolute;
+    left: 0;
+    top: -103px;
+  }
+  .users .bg-bottom-mob {
+    position: absolute;
+    bottom: -101px;
+  }
+  /* Ready btn Responsive */
+  .ready h1 {
+    font-size: 25px;
+  }
+  .ready .ready-btn {
+    padding: 10px 30px;
+    font-size: 14px;
+    font-weight: bold;
+  }
+  /* Footer Responsive */
+  footer .row {
+    flex-wrap: wrap;
+  }
+  footer .subscribe {
+    margin-bottom: 80px;
+  }
+  footer .subscribe h1 {
+    font-size: 22px;
+  }
+  footer .subscribe p {
+    font-size: 15px;
+    margin-bottom: 30px;
+  }
+  footer .subscribe form .email-inp {
+    width: 100%;
+  }
+  footer .subscribe form {
+    text-align: right;
+  }
+  footer .subscribe form .sub {
+    margin-top: 10px;
+  }
+}
