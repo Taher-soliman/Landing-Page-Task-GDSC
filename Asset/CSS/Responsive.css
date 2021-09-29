@@ -154,4 +154,13 @@
   footer .subscribe form .sub {
     margin-top: 10px;
   }
+  .bg-top-mob,
+  .bg-bottom-mob {
+    width: 100%;
+    overflow: hidden;
+  }
+  .bg-top-mob img,
+  .bg-bottom-mob img {
+    width: 100%;
+  }
 }
